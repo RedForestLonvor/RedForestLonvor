@@ -3,7 +3,7 @@
 - 👀 I’m interested in deepLearning/bigData/mathmatics/algorithm
 - 🌱 I’m currently learning parallel computing 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me redforestlonvor@outlook.com / [twitter@_RedForest](https://twitter.com/RedFore29391033)
+- 📫 How to reach me redforestlonvor@outlook.com / [twitter@_RedForest](https://twitter.com/__RedForest)
 - blog : https://redforest.org.cn
 
 <!---
